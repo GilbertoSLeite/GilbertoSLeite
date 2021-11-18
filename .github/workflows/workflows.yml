@@ -1,4 +1,4 @@
-name: Wakatime Readme
+name: Waka Readme
 
 on:
   workflow_dispatch:
@@ -7,9 +7,6 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-- name: Profile Readme Development Stats
-  uses: anmol098/waka-readme-stats@V3
-
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
