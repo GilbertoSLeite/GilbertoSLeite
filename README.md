@@ -17,6 +17,10 @@
     </br>
 	        Full-Stack Developer at 
 		<a href="lsconsultorias.srv.br">LS Consultoria & Sistemas LTDA</a>
+		<img src="https://media2.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif?cid=790b7611786df76f82f2ff9c9b54f3364afb62b0f694c904&rid=giphy.gif&ct=g" width="120">  
+    </br>
+	        Tech Leader at 
+		<a href="https://www.d1.cx/">D1 | Smarkio</a>
 		<img src="https://media2.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif?cid=790b7611786df76f82f2ff9c9b54f3364afb62b0f694c904&rid=giphy.gif&ct=g" width="120"> 
     </br>
           System Programmer Course Instructor
