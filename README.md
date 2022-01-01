@@ -146,13 +146,13 @@ const gilberto = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--854%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 38 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 238.0 kB Used in GitHub's Storage 
  > 
@@ -191,17 +191,17 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bahia
 
 💬 Programming Languages: 
-JavaScript               19 hrs 17 mins      ██████████████████████░░░   90.71% 
-JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.14% 
-Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59% 
-Git Config               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55% 
-YAML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52%
+JavaScript               18 hrs 18 mins      ███████████████████████░░   93.3% 
+JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.68% 
+Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38% 
+YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78% 
+Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
 
 🔥 Editors: 
-VS Code                  21 hrs 15 mins      █████████████████████████   100.0%
+VS Code                  19 hrs 37 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    21 hrs 15 mins      █████████████████████████   100.0%
+Linux                    19 hrs 37 mins      █████████████████████████   100.0%
 
 ```
 
@@ -220,5 +220,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/GilbertoSLeite/GilbertoSLeite/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
