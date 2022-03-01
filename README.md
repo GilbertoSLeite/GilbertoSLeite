@@ -146,7 +146,7 @@ const gilberto = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--851%20Thousand%20lines%20of%20code-blue)
 
@@ -220,5 +220,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/GilbertoSLeite/GilbertoSLeite/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/02/2022 01:11:39 UTC
+ Last Updated on 01/03/2022 01:19:39 UTC
 <!--END_SECTION:waka-->
