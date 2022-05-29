@@ -148,7 +148,7 @@ const gilberto = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--851%20Thousand%20lines%20of%20code-blue)
 
@@ -193,17 +193,17 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bahia
 
 💬 Programming Languages: 
-JavaScript               33 hrs 24 mins      █████████████████████████   99.65% 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
+JavaScript               30 hrs 55 mins      ████████████████████████░   98.31% 
+JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18% 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45% 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  33 hrs 31 mins      █████████████████████████   100.0%
+VS Code                  31 hrs 27 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    33 hrs 31 mins      █████████████████████████   100.0%
+Linux                    31 hrs 27 mins      █████████████████████████   100.0%
 
 ```
 
@@ -221,5 +221,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/GilbertoSLeite/GilbertoSLeite/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/05/2022 01:44:03 UTC
+ Last Updated on 29/05/2022 01:56:19 UTC
 <!--END_SECTION:waka-->
