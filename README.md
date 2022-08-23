@@ -146,7 +146,7 @@ const gilberto = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-661%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-661%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -193,15 +193,15 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bahia
 
 💬 Programming Languages: 
-JavaScript               11 hrs 13 mins      ████████████████████████░   98.66% 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33% 
+JavaScript               11 hrs 22 mins      ████████████████████████░   98.68% 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  11 hrs 22 mins      █████████████████████████   100.0%
+VS Code                  11 hrs 31 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    11 hrs 22 mins      █████████████████████████   100.0%
+Linux                    11 hrs 31 mins      █████████████████████████   100.0%
 
 ```
 
@@ -221,5 +221,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/GilbertoSLeite/GilbertoSLeite/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/08/2022 01:58:34 UTC
+ Last Updated on 23/08/2022 02:09:23 UTC
 <!--END_SECTION:waka-->
