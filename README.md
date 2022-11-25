@@ -10,10 +10,6 @@
 <p>
 	<em>Specializing in Software Engineering at Estácio
 		<img src="https://media3.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=790b761180982daa55a2dbaf8afbb68d347e4f6a3fe4a7dd&rid=giphy.gif&ct=g" width="80">
-		</br>
-	        Senior Backend Developer at 
-		<a href="https://calindra.tech/">Calindra Tech</a>
-		<img src="https://media2.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif?cid=790b7611786df76f82f2ff9c9b54f3364afb62b0f694c904&rid=giphy.gif&ct=g" width="120"> 
     </br>
 	        Junior Software Engineer at 
 		<a href="https://lsconsultorias.srv.br/home">LS Consultoria & Sistemas LTDA</a>
