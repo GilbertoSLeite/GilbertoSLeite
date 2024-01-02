@@ -8,14 +8,15 @@
 	<img src="https://media2.giphy.com/media/eaECZB7V6GACc/giphy.gif?cid=790b7611fc0c9fa7fb4b5b88d60267657b72b7f4acb3f0d7&rid=giphy.gif&ct=g" width="50">
 </h2>
 <p>
-	<em>Specializing in Software Engineering at Estácio
+	<em>MSc Computer Science in Software Engineer at  
+		<a href="https://pgcomp.ufba.br/">Universidade Federal da Bahia</a>
 		<img src="https://media3.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=790b761180982daa55a2dbaf8afbb68d347e4f6a3fe4a7dd&rid=giphy.gif&ct=g" width="80">
     </br>
 	        Software Engineer at 
 		<a href="https://lsconsultorias.srv.br/home">LS Consultoria & Sistemas LTDA</a>
 		<img src="https://media2.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif?cid=790b7611786df76f82f2ff9c9b54f3364afb62b0f694c904&rid=giphy.gif&ct=g" width="120">  
     </br>
-	        Tech Leader at 
+	        Chapter Leader at 
 		<a href="https://www.zenvia.com/">Zenvia</a>
 		<img src="https://media2.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif?cid=790b7611786df76f82f2ff9c9b54f3364afb62b0f694c904&rid=giphy.gif&ct=g" width="120"> 
     </br>
@@ -35,10 +36,12 @@ const gilberto = {
   intermediaryCode: "Java",
   basicCode: [
     "Groovy",
-    "C"
+    "C",
+    "Python"
   ],
   askMeAbout: [
-    "web dev", 
+    "web dev",
+    "back-end",
     "smart cities", 
     "tech", 
     "app dev", 
@@ -48,7 +51,8 @@ const gilberto = {
   technologies: {
       backEnd: {
           js: [
-            "NodeJS", 
+            "NodeJS",
+            "NestJS", 
             "ExpressJS", 
             "SequelizeJS", 
 	    ],
@@ -58,8 +62,7 @@ const gilberto = {
 	    ],
 	  cache: [            
             "Redis", 
-	    ],
-	  eventStreaming: ["Kafka"]
+	    ]
       },
       frontEnd: {
           js: [
@@ -78,22 +81,20 @@ const gilberto = {
       ]
   },
   architecture: [
-    "Microservices", 
-    "MVC", 
-    "Web System", 
-    "Single Page Applications"
+    "Microservices",
+    "Clean Architecture",
+    "Hexagonal",
+    "MVC"
   ],
   currentFocus: [
     "Microservices",
     "Software Engineering", 
     "Clean Code", 
     "Domain Drive Design", 
-    "Clean Architecture", 
-    "eslint"
+    "Clean Architecture"
   ],
   studyingLearning: [
-    "Test Driven Development",
-    "Python"
+    "Test Driven Development"
   ]
 };
 ```
